@@ -10,7 +10,7 @@
 
 ************************************
 
-# Chat has been maked in React.js, Next.js whith redux and contexto.
+# Chat has been maked in React.js, Next.js whith redux and context.
 
 ## To download the project do the following:
 
